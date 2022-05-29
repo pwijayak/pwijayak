@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **open source programming projects**
 
-- 💬 Ask me about **100devs**
+- 💬 Ask me about **working in the pharmaceutical industry**
 
 - 📫 How to reach me **praswijayakoon@gmail.com**
 
-- ⚡ Fun fact **I have a background in the pharmaceutical industry**
+- ⚡ Fun fact **I was born and raised in Kuwait**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
