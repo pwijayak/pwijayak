@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
-<h3 align="center">A passionate fullstack developer from Waterloo, ON</h3>
+<h3 align="center">A fullstack developer from Cambridge, ON</h3>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **web based application**
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/praswijayakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praswijayakoon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasanna.wijayakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna.wijayakoon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pwijayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna.wijayakoon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
