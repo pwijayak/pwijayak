@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
 <h3 align="center">A fullstack developer from Cambridge, ON</h3>
 
-- 🔭 I’m currently working on **web based application**
+- 🔭 I’m currently working on **web based applications**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **open source programming projects**
 
