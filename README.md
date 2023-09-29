@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prasanna</h1>
+<h1 align="center">Hi, I'm Prasanna</h1>
 <h3 align="center">A fullstack developer from Cambridge, ON</h3>
 
-- 🔭 I’m currently working on **web based applications**
+- 🔭 I’m currently working on **web-based applications**
 
 - 🌱 I’m currently learning **JavaScript**
 
